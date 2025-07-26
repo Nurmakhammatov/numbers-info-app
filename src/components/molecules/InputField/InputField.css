@@ -1,0 +1,13 @@
+.input-field {
+  margin-bottom: 24px;
+}
+
+.input-field__label {
+  font-weight: 500;
+  color: rgba(0, 0, 0, 0.87);
+  margin-bottom: 16px;
+  display: block;
+  font-size: 1rem;
+  line-height: 1.4375em;
+  letter-spacing: 0.00938em;
+}

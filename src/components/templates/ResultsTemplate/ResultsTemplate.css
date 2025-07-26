@@ -1,0 +1,10 @@
+.results-template {
+  min-height: 100vh;
+  padding: 24px 0;
+}
+
+.results-template__content {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}

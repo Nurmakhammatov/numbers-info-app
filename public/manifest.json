@@ -1,0 +1,35 @@
+{
+  "name": "Интересные факты о числах",
+  "short_name": "Numbers Facts",
+  "description": "Узнайте интересные математические факты, исторические события и удивительные сведения о любых числах",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f5f5",
+  "theme_color": "#1976d2",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon-16x16.svg",
+      "sizes": "16x16",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/favicon-32x32.svg", 
+      "sizes": "32x32",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/numbers-icon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": ["education", "utilities", "productivity"],
+  "lang": "ru",
+  "dir": "ltr"
+}

@@ -1,0 +1,25 @@
+.form-template {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+}
+
+.form-template__container {
+  max-width: 500px;
+  width: 100%;
+}
+
+.form-template__title {
+  color: #1976d2;
+  margin-bottom: 32px;
+  font-size: 2.125rem;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: 0.00735em;
+}
+
+.form-template__content {
+  width: 100%;
+}

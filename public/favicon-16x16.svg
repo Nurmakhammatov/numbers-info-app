@@ -1,0 +1,6 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="16" height="16" rx="3" fill="#1976d2"/>
+  <text x="2" y="8" fill="#ffffff" font-family="Arial, sans-serif" font-size="4" font-weight="bold">123</text>
+  <text x="2" y="13" fill="#ffffff" font-family="Arial, sans-serif" font-size="3">fact</text>
+  <circle cx="12" cy="4" r="1.5" fill="#ffffff" opacity="0.8"/>
+</svg>

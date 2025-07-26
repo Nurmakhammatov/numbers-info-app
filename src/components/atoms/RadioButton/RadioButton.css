@@ -1,0 +1,32 @@
+.radio-button {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  font-weight: 400;
+  padding: 8px 12px;
+  border-radius: 4px;
+  transition: background-color 150ms cubic-bezier(0.4, 0, 0.2, 1);
+  color: rgba(0, 0, 0, 0.87);
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.radio-button:hover:not(.radio-button--disabled) {
+  background-color: rgba(25, 118, 210, 0.04);
+}
+
+.radio-button__input {
+  margin-right: 12px;
+  width: 20px;
+  height: 20px;
+  accent-color: #1976d2;
+}
+
+.radio-button__label {
+  flex: 1;
+}
+
+.radio-button--disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
